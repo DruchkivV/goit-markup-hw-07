@@ -18,6 +18,10 @@ img {
 
 }
 
+.link:active {
+    color: var(--third-color);
+}
+
 .list {
     list-style: none;
     display: flex;
